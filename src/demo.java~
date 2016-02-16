@@ -4,13 +4,18 @@ public class demo {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
 		System.out.println("Mission");
+<<<<<<< HEAD
 		sayHello(Gautham)
+		System.out.println("We are moving");
+=======
 		system.out.println("We are moving");
+
+>>>>>>> 4fb05185bef97aed1e7916d4f9121a4a09d2fe18
 	}
 	
 	static void sayHello(String name)
 	{
-		system.out.println("Hello" + name)
+		System.out.println("Hello" + name)
 }
 
 }
