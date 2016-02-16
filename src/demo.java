@@ -5,7 +5,7 @@ public class demo {
 		System.out.println("Hello World");
 		System.out.println("Mission Impossible");
 		System.out.println(addition(6));
-		system.out.println("We are moving");
+		system.out.println("We are moving ahead for next verion");
 
 	}
 	public static int addition(int c)
