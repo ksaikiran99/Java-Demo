@@ -4,7 +4,13 @@ public class demo {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
 		System.out.println("Mission");
-
+		sayHello(Gautham)
+		system.out.println("We are moving");
 	}
+	
+	static void sayHello(String name)
+	{
+		system.out.println("Hello" + name)
+}
 
 }

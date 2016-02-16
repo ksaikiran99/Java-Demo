@@ -5,11 +5,12 @@ public class demo {
 		System.out.println("Hello World");
 		System.out.println("Mission");
 		sayHello(Gautham)
+		System.out.println("We are moving");
 	}
 	
 	static void sayHello(String name)
 	{
-		system.out.println("Hello" + name)
+		System.out.println("Hello" + name)
 }
 
 }
